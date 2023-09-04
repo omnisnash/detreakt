@@ -1,0 +1,26 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.05759408270205 68.79959221879835"
+>
+    <!-- svg-source:excalidraw -->
+
+    <g stroke-linecap="round">
+        <g transform="translate(13.439386181533337 10.662295963615179) rotate(0 -1.307082186696789 22.953231853793113)">
+            <path d="M-3.44 1.39 C-0.76 8.43, 1.08 24.83, 0.8 43.99 M0.69 -0.66 C-1.74 11.99, -0.73 23.45, 0.75 46.57"
+                  stroke="currentColor" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(40.650425758916754 10.624273788678693) rotate(0 -0.8923171224741964 24.043576275358646)">
+            <path d="M-3.19 0.5 C1.34 16.27, 3.9 31.69, -2.16 47.63 M0.5 -0.07 C-0.32 14.75, -1.27 27.59, -1.88 48.16"
+                  stroke="currentColor" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(26.12046433553587 55.78164985726471) rotate(0 0.08308246359229088 -20.720841760296025)">
+            <path d="M0.87 3.02 C-1.67 -15.48, 2.43 -27.23, 0.37 -44.46 M-0.82 1.87 C-0.33 -12.54, -0.65 -27.46, 0.99 -41.5"
+                  stroke="currentColor" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+</svg>

@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.34752643355932 68.3623942912709"
+>
+    <!-- svg-source:excalidraw -->
+
+    <g stroke-linecap="round">
+        <g transform="translate(9.153365202248096 8.16384581103921) rotate(0 23.044875387538013 24.80729344961219)">
+            <path d="M0.85 3.91 C14.02 14.87, 20.85 22.72, 45.24 47.78 M1.38 1.84 C16.83 16.23, 31.79 33.96, 45.22 47.69"
+                  stroke="currentColor" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(56.5079663085362 13.19500592240729) rotate(0 -22.677016167201145 21.66459077433683)">
+            <path d="M-2.46 -1.84 C-11.25 16.54, -33.21 25.93, -46.19 43.26 M0.84 -1.59 C-11.01 10.23, -19.65 19.19, -45.4 45.17"
+                  stroke="currentColor" stroke-width="4" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+</svg>
